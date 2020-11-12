@@ -1,3 +1,3 @@
 # collaborazioni
 
-Repository where collabarations between different souls of reserachers should meet.
+Repository where collaborations between different souls of reserachers should happen.
